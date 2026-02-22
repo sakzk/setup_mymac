@@ -1,0 +1,30 @@
+# --- Development Tools ---
+# cask "docker-desktop"      # https://www.docker.com/products/docker-desktop
+# cask "ghostty"             # https://ghostty.io
+# cask "iterm2"              # https://iterm2.com
+# cask "visual-studio-code"  # https://code.visualstudio.com
+# cask "obsidian"
+# cask "postman"             # https://www.postman.com
+# cask "dbeaver-community"   # https://dbeaver.io/
+
+# --- Communication ---
+# cask "slack"   # https://slack.com
+# cask "discord" # https://discord.com
+
+# --- Browsers ---
+# cask "google-chrome" # https://www.google.com/chrome
+# cask "firefox"       # https://www.mozilla.org/firefox
+
+# --- System Utilities ---
+# cask "karabiner-elements"  # https://karabiner-elements.pqrs.org
+# cask "clipy"               # https://clipy-app.com
+# cask "alt-tab"             # https://alt-tab-macos.netlify.app/
+# cask "keycastr"            # https://github.com/keycastr/keycastr
+# cask "rectangle"           # https://rectangleapp.com
+# cask "obs"                 # https://obsproject.com
+# cask "vlc"                 # https://www.videolan.org/vlc
+# Optional
+# cask "google-japanese-ime" # https://www.google.co.jp/ime/
+
+# --- Fonts ---
+# cask "font-hackgen-nerd"   # https://github.com/yuru7/HackGen

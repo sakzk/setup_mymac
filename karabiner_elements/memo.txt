@@ -1,0 +1,8 @@
+To make Karabiner-Elements recognize the key mappings,
+you need to register the json file under ./karabiner_element/ from `Karabiner-Elements > Complex Modification`.
+
+You can paste the content of the json file to the clipboard with the following command.
+
+```bash
+cat karabiner_element/semicolon_as_fn_layer_with_extensive_mappings.json | pbcopy
+```

@@ -1,0 +1,63 @@
+# --- Shell & Terminal & Utilities ---
+# brew "bat"         # https://github.com/sharkdp/bat
+# brew "curl"        # https://curl.se
+# brew "eza"         # https://eza.rocks
+# brew "fd"          # https://github.com/sharkdp/fd
+# brew "fzf"         # https://github.com/junegunn/fzf
+# brew "gh"          # https://cli.github.com
+# brew "git"         # https://git-scm.com
+# brew "gemini-cli"  # https://cloud.google.com/gemini/docs/codeassist/gemini-cli
+# brew "jq"          # https://github.com/jqlang/jq
+# brew "ripgrep"     # https://github.com/BurntSushi/ripgrep
+# brew "starship"    # https://starship.rs
+# brew "tldr"        # https://tldr.sh
+# brew "tree-sitter" # https://tree-sitter.github.io/tree-sitter
+# brew "tmux"        # https://github.com/tmux/tmux
+# brew "tree"        # http://mama.indstate.edu/users/ice/tree
+# brew "wget"        # https://www.gnu.org/software/wget
+# brew "zoxide"      # https://github.com/ajeetdsouza/zoxide
+# brew "zsh"         # https://www.zsh.org
+# brew "shellcheck"  # https://www.shellcheck.net/
+# brew "ffmpeg"      # https://www.ffmpeg.org/
+
+# --- Development ---
+# brew "neovim"         # https://neovim.io
+# brew "lazygit"        # https://github.com/jesseduffield/lazygit
+# brew "lazydocker"     # https://github.com/jesseduffield/lazydocker
+# brew "bear"           # https://github.com/rizsotto/Bear
+# brew "llvm"           # https://llvm.org
+# brew "cmake"          # https://cmake.org
+# brew "ninja"          # https://ninja-build.org
+# brew "terraform"      # https://www.terraform.io
+# brew "libpq"          # https://www.postgresql.org
+# brew "mysql-client"   # https://dev.mysql.com
+# brew "httpie"         # https://httpie.io/
+# brew "wrk"            # https://github.com/wg/wrk
+
+# --- Databases ---
+# brew "mysql"              # https://dev.mysql.com/
+# brew "mongodb-community"  # https://www.mongodb.com/
+# brew "sqlite"             # https://www.sqlite.org/
+# brew "redis"              # https://redis.io/
+
+# --- Monitoring ---
+# brew "htop"        # https://htop.dev/
+# brew "glances"     # https://nicolargo.github.io/glances/
+# brew "grafana"     # https://grafana.com/
+# brew "ctop"        # https://ctop.sh/
+# brew "prometheus"  # https://prometheus.io/
+
+# --- Language ---
+# brew "python" # https://www.python.org
+# brew "pyenv"  # https://github.com/pyenv/pyenv
+# brew "go"     # https://go.dev
+# brew "opam"   # https://opam.ocaml.org
+# brew "node"  # https://nodejs.org
+# brew "yarn"        # https://yarnpkg.com/
+# brew "typescript"  # https://www.typescriptlang.org/
+
+# --- For snacks.nvim image features ---
+# brew "imagemagick"  # https://imagemagick.org
+# brew "ghostscript"  # https://ghostscript.com
+# brew "tectonic"     # https://tectonic-typesetting.github.io
+# brew "mermaid-cli"  # https://github.com/mermaid-js/mermaid-cli
